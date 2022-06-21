@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7N59MKk3/2zF20PmoRtIMZ8Di5DPgxRp1ZDXyX8noU85A6GK5ZNp/OB/epjYx2ItmVAOmNJujvySLk/xdBFkQw==",
+  "dgSpecHash": "dV3JkJEHwXBswNjONxSK+TI+HEza1eAcYqwvT9RR3QjRZDzplK7M7d/SyPH7eg4Jvo7Ed1ft7z3ZqmiqqH4F3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hasan\\source\\repos\\BackendFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Hasan\\Documents\\GitHub\\backend-project-with-netcore\\BackendFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
