@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Business.Abstract
 {
-    public interface ICategoryService
+    public interface IEmployeeService
     {
-        IDataResult<List<Category>> GetAll();
-        IDataResult<Category> GetById(int categoryId);
+        IDataResult<List<Employee>> GetAll();
+        IDataResult<Employee> GetById(int id);
 
-        IResult Add(Category category);
+        IResult Add(Employee employee);
     }
 }

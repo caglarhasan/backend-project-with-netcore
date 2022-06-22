@@ -32,6 +32,18 @@ namespace WebAPI
             services.AddControllers();
             services.AddSingleton<IProductService, ProductManager>();
             services.AddSingleton<IProductDal, EfProductDal>();
+
+            services.AddSingleton<ICategoryService, CategoryManager>();
+            services.AddSingleton<ICategoryDal, EfCategoryDal>();
+
+            services.AddSingleton<ICustomerService, CustomerManager>();
+            services.AddSingleton<ICustomerDal, EfCustomerDal>();
+
+            services.AddSingleton<IOrderService, OrderManager>();
+            services.AddSingleton<IOrderDal, EfOrderDal>();
+
+            services.AddSingleton<IEmployeeService, EmployeeManager>();
+            services.AddSingleton<IEmployeeDal, EfEmployeeDal>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
