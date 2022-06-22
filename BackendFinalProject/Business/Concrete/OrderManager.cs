@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -20,6 +21,8 @@ namespace Business.Concrete
             _orderDal = orderDal;
         }
 
+
+        [ValidationAspect(typeof(Order))]
         public IResult Add(Order order)
         {
 

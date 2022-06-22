@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -20,15 +21,9 @@ namespace Business.Concrete
             _employeeDal = employeeDal;
         }
 
+        [ValidationAspect(typeof(Employee))]
         public IResult Add(Employee employee)
         {
-            if (employee.FirstName.Length < 2)
-            {
-                return new ErrorResult(Messages.EmployeeFirstNameInvalid);
-            }else if(employee.LastName.Length < 2)
-            {
-                return new ErrorResult(Messages.EmployeeLastNameInvalid);
-            }
 
             _employeeDal.Add(employee);
 

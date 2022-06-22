@@ -60,3 +60,9 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Entities.pdb
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll

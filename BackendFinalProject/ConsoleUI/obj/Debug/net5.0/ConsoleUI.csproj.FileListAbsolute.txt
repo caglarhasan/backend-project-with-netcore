@@ -140,3 +140,7 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\FluentValidation.dll
