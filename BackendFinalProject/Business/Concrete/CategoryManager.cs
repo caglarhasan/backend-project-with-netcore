@@ -2,6 +2,7 @@
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
+using Core.Utilities.Business;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -36,12 +37,26 @@ namespace Business.Concrete
         [ValidationAspect(typeof(CategoryValidator))]
         public IResult Add(Category category)
         {
-            if (category.CategoryName.Length < 2)
+            IResult result = BusinessRules.Run(CheckIfCategoryNameExists(category.CategoryName));
+
+            if (result !=null)
             {
-                return new ErrorResult(Messages.CategoryNameInvalid);
+                return result;
             }
 
             _categoryDal.Add(category);
+
+            return new SuccessResult(Messages.CategoryAdded);
+        }
+
+        private IResult CheckIfCategoryNameExists(string categoryName)
+        {
+            var result = _categoryDal.GetAll(c => c.CategoryName == categoryName).Any();
+
+            if (result)
+            {
+                return new ErrorResult(Messages.CategoryNameAlreadyExists);
+            }
 
             return new SuccessResult(Messages.CategoryAdded);
         }
