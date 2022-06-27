@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ixG/QqpAmZY7LoMZCBPqleoT91oFY+ls1tfQSHdAdoyApmiFjf79hDGXwjyDI/rbYFCv9kqBs53Ri+ne9FvoMA==",
+  "dgSpecHash": "AkcMcr6zGzNDqN38VfWibZcCSd/i6wrhhw8dxKomlDjRgxu5SBlcg7fvBGurhjFkG5QbOBqaFUSiFWUMdfq3Yw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hasan\\Documents\\GitHub\\backend-project-with-netcore\\BackendFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

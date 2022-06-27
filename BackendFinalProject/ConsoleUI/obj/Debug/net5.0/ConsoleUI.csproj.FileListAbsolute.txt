@@ -144,3 +144,7 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll

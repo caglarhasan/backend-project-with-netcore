@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -38,6 +39,17 @@ namespace Business.Constants
         public static string EmployeeLastNameInvalid = "Personel soyadı geçersiz. Personel soyadı en az 2 karakter olmalıdır.";
         public static string EmployeeListed = "Personel/Personeller listelendi.";
         public static string EmployeeAdded = "Personel eklendi.";
-        
+
+
+        public static string AuthorizationDenied = "Yetkiniz yok.";
+
+        //Auth
+        public static string UserRegistered = "Kayıt oluşturuldu.";
+        public static string UserNotFound = "Kullanıcı bulunamadı.";
+        public static string PasswordError = "Şifre hatalı.";
+        public static string SuccessfulLogin = "Başarılı giriş.";
+        public static string UserAlreadyExists = "Kullanıcı önceden oluşturulmuş.";
+        public static string AccessTokenCreated = "Token oluşturuldu.";
+
     }
 }

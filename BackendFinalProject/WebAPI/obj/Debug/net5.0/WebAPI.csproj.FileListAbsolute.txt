@@ -32,7 +32,6 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -66,3 +65,4 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
