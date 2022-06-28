@@ -2289,6 +2289,8 @@
           "Autofac": "6.4.0",
           "Autofac.Extras.DynamicProxy": "6.0.1",
           "FluentValidation": "11.1.0",
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0"
         },

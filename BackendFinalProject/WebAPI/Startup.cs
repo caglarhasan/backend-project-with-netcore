@@ -1,5 +1,8 @@
 using Business.Abstract;
 using Business.Concrete;
+using Core.DependencyResolvers;
+using Core.Extensions;
+using Core.Utilities.IoC;
 using Core.Utilities.Security.Encryption;
 using Core.Utilities.Security.JWT;
 using DataAccess.Abstract;
@@ -35,10 +38,6 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            //services.AddSingleton<IProductService, ProductManager>();
-            //services.AddSingleton<IProductDal, EfProductDal>();
-
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
@@ -57,19 +56,9 @@ namespace WebAPI
                     };
                 });
 
-
-            //services.AddSingleton<ICategoryService, CategoryManager>();
-            //services.AddSingleton<ICategoryDal, EfCategoryDal>();
-
-            //services.AddSingleton<ICustomerService, CustomerManager>();
-            //services.AddSingleton<ICustomerDal, EfCustomerDal>();
-
-            //services.AddSingleton<IOrderService, OrderManager>();
-            //services.AddSingleton<IOrderDal, EfOrderDal>();
-
-            //services.AddSingleton<IEmployeeService, EmployeeManager>();
-            //services.AddSingleton<IEmployeeDal, EfEmployeeDal>();
-
+            services.AddDependencyResolvers(new ICoreModule[] { 
+                new CoreModule(),
+            });
 
         }
 

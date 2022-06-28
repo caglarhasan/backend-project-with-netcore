@@ -148,3 +148,7 @@ C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
 C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Hasan\Documents\GitHub\backend-project-with-netcore\BackendFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Net.Http.Headers.dll
